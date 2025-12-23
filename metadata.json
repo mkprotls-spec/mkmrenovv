@@ -1,0 +1,7 @@
+{
+  "name": "MKM Rénov - Experts en Charpente & Rénovation",
+  "description": "Site web haut de gamme pour MKM Rénov, spécialiste en charpentes, gros œuvre et rénovation dans l'Hérault.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
